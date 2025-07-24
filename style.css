@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+h1 {
+    text-align: center;
+    font-size: 100px;
+    color: transparent;
+    background-image: url("black-red-blurry-art-background_678264-5790.avif");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-transform: uppercase;
+    letter-spacing: 1%;
+    margin-top: 500px;
+}
+p {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    margin-top: 1200px;
+    padding-left: 20%;
+    padding-right: 20%;
+    color: transparent;
+    background-image: url("black-red-blurry-art-background_678264-5790.avif");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-bottom: 1000px;
+}
+
